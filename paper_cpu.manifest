@@ -1,0 +1,14 @@
+{
+  "id": "taist-moysklad-docs",
+  "js": "webapp/generated/js/paper_cpu.js",
+  "css": "webapp/generated/styles/screen.css",
+  "title": "moysklad-docs",
+  "siteName": "MoySklad",
+  "siteRegexp": ".moysklad.ru",
+  "shortDescription": "Moysklad-docs публикует документы в формате Office Open XML (.docx) на основе шаблона в этом же формате и данных сервиса Мой Склад",
+  "description": "moysklad-docs.md",
+  "pages": [{
+    "path": "/app/",
+    "entryPoint": "addButton"
+  }]
+}
