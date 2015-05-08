@@ -1,5 +1,5 @@
 {
-  "id": "taist-moysklad-docs",
+  "id": "taist-Экспорт документов",
   "js": "webapp/generated/js/paper_cpu.js",
   "css": "webapp/generated/styles/screen.css",
   "title": "Экспорт документов",
